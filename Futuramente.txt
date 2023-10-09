@@ -1,0 +1,2 @@
+Ver alguma forma de verificar se o arquivo existe ou não para tratar entrada do remove e random
+quando não há arquivo algum
